@@ -1,6 +1,6 @@
 This repository contains five basic C++ projects:  
 
-✨ **General Store Management**  
+✨ **Password Generator**  
 📚 **Library Management System**  
 💻 **Learning Management System (LMS)**  
 📂 **General Management System**  
